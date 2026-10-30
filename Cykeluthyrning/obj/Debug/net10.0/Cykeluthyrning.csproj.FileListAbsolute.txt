@@ -1,0 +1,15 @@
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\bin\Debug\net10.0\Cykeluthyrning.exe
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\bin\Debug\net10.0\Cykeluthyrning.deps.json
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\bin\Debug\net10.0\Cykeluthyrning.runtimeconfig.json
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\bin\Debug\net10.0\Cykeluthyrning.dll
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\bin\Debug\net10.0\Cykeluthyrning.pdb
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.AssemblyInfoInputs.cache
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.AssemblyInfo.cs
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.csproj.CoreCompileInputs.cache
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.dll
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\refint\Cykeluthyrning.dll
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.pdb
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.genruntimeconfig.cache
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\ref\Cykeluthyrning.dll
+C:\Users\ookami\Studier\Backend\02 OOP C# del1\04 Inlämningsuppgift\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluth.727A7044.Up2Date
